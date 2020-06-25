@@ -1,0 +1,1 @@
+{"dense_hidden_size": 64, "num_kernels": 20, "kernel_size": 7, "image_width": 64, "categories": ["other", "zebra"], "model_file": "zc.model"}
