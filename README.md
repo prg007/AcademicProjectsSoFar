@@ -3,7 +3,12 @@ The folders inside this repository consists of academic projects that I have bui
 
 ## Zebra Classifier
 
-This is a deep learning project. 
+A deep learning project. A convolutional neural network that utilises max pooling and padding with kernel sizes of 3 to differentiate pictures of zebra with an accuracy of greater than 90%.
+
+To download the data go over here:https://drive.google.com/file/d/1rj2LMGRe7d8TauegFwobQdzeMdn-XokP/view?usp=sharing
+
+Run `python3 zebrashop.py zc.json` to open the application
+
 ![Zebra_Identifier](https://github.com/prg007/AcademicProjectsSoFar/blob/master/AcademicProjects//Academic_Project_Screenshots/Deep_Learning_Colonels3.png)
 
 ## Random Maze
