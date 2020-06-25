@@ -4,7 +4,7 @@ The folders inside this repository consists of academic projects that I have bui
 ## Zebra Classifier
 
 This is a deep learning project. 
-![Run_Man](https://github.com/prg007/AcademicProjectsSoFar/blob/master/AcademicProjects/Deep_Learning_Colonels3.png)
+![Zebra_Identifier](https://github.com/prg007/AcademicProjectsSoFar/blob/master/AcademicProjects//Academic_Project_Screenshots/Deep_Learning_Colonels3.png)
 
 ## Random Maze
 
