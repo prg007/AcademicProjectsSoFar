@@ -1,6 +1,11 @@
 # AcademicProjectsSoFar
 The folders inside this repository consists of academic projects that I have built during my time in college
 
+## Zebra Classifier
+
+This is a deep learning project. 
+![Run_Man](https://github.com/prg007/AcademicProjectsSoFar/blob/master/AcademicProjects/Deep_Learning_Colonels3.png)
+
 ## Random Maze
 
 I created this project for my Data Structures and Algorithms Class. This program uses the Union Find algorithm to randomly create a 10 by 10 maze. It takes upto a minute to demonstrate how it uses the Union Find Algorithm and sets up a random colorful maze. Download the folder and run CreateMaze.py
