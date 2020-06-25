@@ -3,7 +3,7 @@ The folders inside this repository consists of academic projects that I have bui
 
 ## Zebra Classifier
 
-A deep learning project. A convolutional neural network that utilises max pooling and padding with kernel sizes of 3 to differentiate pictures of zebra with an accuracy of greater than 90%.
+Deep Lernong: A convolutional neural network is built that utilises max pooling and padding with kernel sizes of 3 to differentiate pictures of zebra with an accuracy of greater than 90%.
 
 To download the data go over here:https://drive.google.com/file/d/1rj2LMGRe7d8TauegFwobQdzeMdn-XokP/view?usp=sharing
 
